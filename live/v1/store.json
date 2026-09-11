@@ -24,6 +24,6 @@
   "initial_shuffle_count": 2,
   "extra_time_seconds_rewards": 50,
   "extra_time_seconds": 60,
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "We are currently performing server maintenance. Please check back shortly!"
 }
