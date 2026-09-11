@@ -1,2 +1,11 @@
 
-{"playstore_optional_update":false, "playstore_force_update":false, "default_coin":20,}
+{
+  "playstore_force_update": false,
+  "default_coin": 20,
+  "latest_version": "1.1.0",
+  "one_star_reward": 5,
+  "two_star_reward": 10,
+  "three_star_reward": 20,
+  "rewarded_ads_enabled": true,
+  "rewarded_ad_coin": 20
+}
