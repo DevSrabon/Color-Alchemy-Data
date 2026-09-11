@@ -10,7 +10,7 @@
   "three_star_reward": 20,
   "rewarded_ads_enabled": true,
   "rewarded_ad_coin": 20,
-  "force_test_ads": false,
+  "force_test_ads": true,
   "interstitial_ads_enabled": true,
   "interstitial_ad_level_interval": 3,
   "booster_undo_price": 45,
