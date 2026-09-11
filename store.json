@@ -1,11 +1,26 @@
-
 {
   "playstore_force_update": false,
-  "default_coin": 20,
   "latest_version": "1.1.0",
+  "playstore_url": "https://play.google.com/store/apps/details?id=com.coloralchemy.watersort",
+  "default_coin": 20,
   "one_star_reward": 5,
   "two_star_reward": 10,
   "three_star_reward": 20,
   "rewarded_ads_enabled": true,
-  "rewarded_ad_coin": 20
+  "rewarded_ad_coin": 20,
+  "interstitial_ads_enabled": true,
+  "interstitial_ad_level_interval": 3,
+  "booster_undo_price": 45,
+  "booster_extra_tube_price": 50,
+  "booster_shuffle_price": 45,
+  "booster_combo_undo_price": 100,
+  "booster_combo_extra_tube_price": 100,
+  "booster_combo_shuffle_price": 100,
+  "initial_undo_count": 3,
+  "initial_extra_tube_count": 2,
+  "initial_shuffle_count": 2,
+  "extra_time_seconds_rewards": 50,
+  "extra_time_seconds": 60,
+  "maintenance_mode": false,
+  "maintenance_message": "We are currently performing server maintenance. Please check back shortly!"
 }
