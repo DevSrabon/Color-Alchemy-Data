@@ -12,7 +12,7 @@
   "rewarded_ad_coin": 20,
   "force_test_ads": true,
   "interstitial_ads_enabled": true,
-  "interstitial_ad_level_interval": 2,
+  "interstitial_ad_level_interval": 3,
   "booster_undo_price": 45,
   "booster_extra_tube_price": 50,
   "booster_shuffle_price": 45,
